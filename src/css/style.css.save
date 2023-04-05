@@ -1,0 +1,16 @@
+body {
+	font-family: "cCourier New", Poppins;	
+	font-weight: ; 
+}
+
+main { color: red; } 
+
+.cabecalho { background-color: orange;}
+
+.cabecalho .logo {
+	width: 64px;
+}
+
+.cabecalho li {
+	font-family: Poppins;
+}
